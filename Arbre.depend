@@ -1,5 +1,53 @@
 # depslib dependency file v1.0
-1792578833 source:c:\users\elitebook\desktop\arbre\main.cpp
-	<stdio.h>
+1793219395 source:c:\users\elitebook\desktop\arbre\main.cpp
 	<stdlib.h>
+	<iostream>
+	<chrono>
+	<vector>
+	<algorithm>
+	<numeric>
+	<random>
+	<iomanip>
+	<string>
+	<map>
+
+1793222395 source:c:\users\elitebook\desktop\arbre\limite_string.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<algorithm>
+	<map>
+	<chrono>
+	<iomanip>
+	<sstream>
+
+1793225034 source:c:\users\elitebook\desktop\arbre\limite_recherche.cpp
+	<iostream>
+	<vector>
+	<map>
+	<algorithm>
+	<random>
+	<chrono>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<string>
+	<algorithm>
+	<random>
+	<chrono>
+	<iomanip>
+
+1793225015 source:c:\users\elitebook\desktop\arbre\limite_suppression.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<string>
+	<algorithm>
+	<random>
+	<chrono>
+	<iomanip>
 
